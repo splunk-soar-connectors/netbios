@@ -1,0 +1,15 @@
+Splunk SOAR NetBIOS
+Copyright 2021 Splunk Inc.
+
+Third-party Software Attributions:
+
+Library: pyasn1
+Version: 0.3.7
+License: BSD
+Unknown copyright
+
+Library: pysmb
+Version: 1.2.7
+License: Zlib
+License: Libpng
+Copyright 2001-2020 Michael Teo <miketeo
