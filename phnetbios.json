@@ -26,12 +26,12 @@
     "pip_dependencies": {
         "wheel": [
             {
-                "module": "pysmb",
-                "input_file": "wheels/pysmb-1.1.22.zip"
-            },
-            {
                 "module": "pyasn1",
                 "input_file": "wheels/pyasn1-0.3.7-py2.py3-none-any.whl"
+            },
+            {
+                "module": "pysmb",
+                "input_file": "wheels/pysmb-1.2.7-py2-none-any.whl"
             }
         ]
     },

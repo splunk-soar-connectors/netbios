@@ -1,0 +1,2 @@
+pysmb
+pyasn1==0.3.7
